@@ -1,0 +1,31 @@
+{
+  "name": "nemoeius",
+  "version": "1.0.0",
+  "description": "Collection of Lava implementation for different providers",
+  "main": "./bin/index.js",
+  "types": "./bin/index.d.ts",
+  "author": "ColumbusCasper",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@lavanet/lava-sdk": "0.8.2",
+    "ethers": "^6.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FaePacocha/nemoeius.git"
+  },
+  "bin": {
+    "lava-sdk-providers": "bin/index.js"
+  },
+  "keywords": [
+    "lava",
+    "lavanetwork",
+    "omnis",
+    "lavaprotocol",
+    "architecto",
+    "etherjs",
+    "aperiam",
+    "est",
+    "voluptatem"
+  ]
+}
